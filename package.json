@@ -1,0 +1,20 @@
+{
+  "name": "claro-map",
+  "version": "1.0.0",
+  "description": "Claro indoor map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "indoor",
+    "claro",
+    "node"
+  ],
+  "author": "Manuel Cepeda <manuel_cepeda@claro.com.do>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
